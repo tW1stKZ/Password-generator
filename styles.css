@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(30, 27, 27);
+    color: #ffffff;
+}
+
+header {
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    font-size: x-large;
+    text-align: center;
+}
+
+main {
+    background-color:rgb(40, 35, 35);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2.5%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    font-size: large;
+}
+
+footer {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th {
+    text-align: left;
+}
+
+table td {
+    padding: 10px;
+    text-align: center;
+    width: 33.33%;
+}
+
+.notice {
+    text-align: center;
+    font-size: large;
+}
